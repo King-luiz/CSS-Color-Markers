@@ -41,9 +41,9 @@ The CSS file provides:
 
 ## How to Run
 1. Clone the repository:
-   ```
+   
 git clone <repository-url>
-   ```
+   
 2. Open the `ColorMaker.html` file in any web browser to view the project.
 
 ## Customization
